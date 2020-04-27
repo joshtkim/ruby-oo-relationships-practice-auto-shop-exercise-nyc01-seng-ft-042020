@@ -12,7 +12,7 @@ Here's what we need to be able to do.
 
 **CarOwner**
 
-  - `CarOwner.all` Get a list of all owners
+  <!-- - `CarOwner.all` Get a list of all owners -->
 
   - `CarOwner#cars` Get a list of all the cars that a specific owner has
 
@@ -22,15 +22,15 @@ Here's what we need to be able to do.
 
 **Car**
 
-  - `Car.all` Get a list of all cars
+  <!-- - `Car.all` Get a list of all cars -->
 
-  - `Car.classifications` Get a list of all car classifications
+  <!-- - `Car.classifications` Get a list of all car classifications -->
 
   - `Car.find_mechanics(classification)` Get a list of mechanics that have an expertise that matches the passed in car classification
 
 **Mechanic**
 
-  - `Mechanic.all` Get a list of all mechanics
+  <!-- - `Mechanic.all` Get a list of all mechanics -->
 
   - `Mechanic#cars` Get a list of all cars that a mechanic services
 
